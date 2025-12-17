@@ -40,22 +40,31 @@ python3 alhack.py
 
   ### Menu 🔥 Information!!!
   
-  Crypto Lord Hack Menu 🔥
+  ```Crypto Lord Hack Menu 🔥```
 
-[1] Requirements & Updates        [2] Phishing Tool
-[3] WebCam Hack                   [4] Subscan
-[5] Gmail Bomber                  [6] DDOS Attack
-[7] How to use?           [8] Uninstall downloaded programs
-[9] Ip Info                       [10] dorks-eye
-[11] HackerPro                    [12] RED_HAWK
-[13] VirusCrafter                 [14] Info-Site
-[15] BadMod                       [16] Facebash
-[17] DARKARMY                     [18] AUTO-IP-CHANGER
+* `[1] Requirements & Updates`
+* `[2] Phishing Tool`
+* `[3] WebCam Hack`
+* `[4] Subscan`
+* `[5] Gmail Bomber`
+* `[6] DDOS Attack`
+* `[7] How to use?`
+* `[8] Uninstall downloaded programs`
+* `[9] Ip Info`
+* `[10] dorks-eye`
+* `[11] HackerPro`
+* `[12] RED_HAWK`
+* `[13] VirusCrafter`
+* `[14] Info-Site`
+* `[15] BadMod`
+* `[16] Facebash`
+* `[17] DARKARMY`
+* `[18] AUTO-IP-CHANGER`
   
-This Tools Consist of 17 Different hacks Use at ur own Risk 😙
+# This Tools Consist of 17 Different Repository hacks, Use at ur own Risk 😙
 
-### Warning
+### Warning ###
 We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
 
-#### Created By Crypto Lord Himself 🔥 
+### Created By Crypto Lord Himself 🔥 ###
 Build 100% with Love ❤ By Crypto Lord Himself 🔥
